@@ -9052,7 +9052,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0aede513-47da-4c20-8c7e-c99d169b4ae7")
 		(property "Reference" "D10"
 			(at 255.27 124.714 0)
@@ -13700,7 +13700,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e4bf0c6e-1912-43ac-9829-beb83457c8fc")
 		(property "Reference" "D9"
 			(at 255.27 116.84 0)
