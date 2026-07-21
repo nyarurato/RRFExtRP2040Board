@@ -37,3 +37,6 @@ fp-info-cache
 .svg2shenzhen-cache
 production/backups
 gerber
+
+.vscode
+.github
